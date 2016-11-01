@@ -25,12 +25,12 @@ All the code is in the notebook `star_wars_survey.ipynb`.
 In a terminal or command window, navigate to the top-level project directory titanic_survival_exploration/ (that contains this README) and run one of the following commands:
 
 ```
-`jupyter notebook titanic_survival_exploration.ipynb`
+jupyter notebook titanic_survival_exploration.ipynb
 ```
 
 or
 ```
-`ipython notebook titanic_survival_exploration.ipynb`
+ipython notebook titanic_survival_exploration.ipynb
 ```
 This will open the Jupyter Notebook software and project file in your web browser.
 
