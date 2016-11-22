@@ -4,15 +4,15 @@ While waiting for _Star Wars: The Force Awakens_, the team at FiveThirtyEight wa
 
 The team needed to collect data before they could get started answering this question. They used SurveyMonkey, an online survey tool, to survey Star Wars fans. They received 835 responses total, which you can find at https://github.com/fivethirtyeight/data/tree/master/star-wars-survey. 
 
+## Context 
+This project is part of Dataquest.io guided projects. Datasets were provided and we were asked to make data exploration in Jupyter Notebook. Each project were constituted of 6 to 8 steps of exploration, analysis, visualization and sometimes machine learning algorithm implementation. Additional steps were given at the end of each project to advance our exploration. The text cells between each code cells are part of the instructions that were provided. It is slightly retouched. For example, instead of 'you', it has been replace by 'we' to improve readability. 
+
 ## Install
 This project requires Python 3 and the following Python libraries installed:
 
-
-<ul>
-  <li>NumPy</li>
-  <li>Pandas</li>
-  <li>matplotlib</li>
-</ul>
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
